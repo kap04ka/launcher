@@ -1,0 +1,15 @@
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher.csproj.AssemblyReference.cache
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\MainWindow.g.cs
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\App.g.cs
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher_MarkupCompile.cache
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher_MarkupCompile.lref
+C:\Users\Kapa\source\repos\launcher\launcher\bin\Debug\launcher.exe.config
+C:\Users\Kapa\source\repos\launcher\launcher\bin\Debug\launcher.exe
+C:\Users\Kapa\source\repos\launcher\launcher\bin\Debug\launcher.pdb
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\MainWindow.baml
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher.g.resources
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher.Properties.Resources.resources
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher.csproj.GenerateResource.cache
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher.csproj.CoreCompileInputs.cache
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher.exe
+C:\Users\Kapa\source\repos\launcher\launcher\obj\Debug\launcher.pdb
